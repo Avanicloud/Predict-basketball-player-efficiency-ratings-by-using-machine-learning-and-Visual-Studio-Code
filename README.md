@@ -12,5 +12,5 @@ In this module, you will:
 Prerequisites
 
     Visual Studio Code, with the Python extension installed
-    A local Python environment, such as the one used in Discover the role of Python in space exploration
+    A local Python environment
 
